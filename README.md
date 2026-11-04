@@ -2,6 +2,16 @@
   <img src="PrisonRunner/Unity/Assets/Game/Content/ArtV2/Textures/MuhanokLogo.png" alt="Mongscape" width="480">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-6000.3.10f1-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6000.3.10f1">
+  <img src="https://img.shields.io/badge/C%23-URP-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C# URP">
+  <img src="https://img.shields.io/badge/Windows-only-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <br>
+  <img src="https://img.shields.io/badge/Unity_AI_Inference-BlazePose-FF6F00?style=for-the-badge" alt="Unity AI Inference BlazePose">
+  <img src="https://img.shields.io/badge/Python-OpenCV-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python OpenCV">
+  <img src="https://img.shields.io/badge/PostgreSQL-17-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL 17">
+</p>
+
 # Mongscape · 몽스케이프 (무한옥)
 
 Unity 6000.3.10f1 기반 Windows 운동 러너입니다. 광산·수레 갈림길·감옥·동물원을 키보드 또는 웹캠 몸동작으로 플레이합니다.
@@ -54,4 +64,12 @@ Unity 6000.3.10f1로 `PrisonRunner/Unity`를 열고 **Mongscape → Play GameSce
 | 전체 안내 | [문서 목록](PrisonRunner/docs/README.md) |
 | 외부 리소스 조건 | [출처](PrisonRunner/THIRD_PARTY_NOTICES.md) |
 
-이전 문서와 캡처는 로컬 통합 백업으로 옮겼습니다. 새 검수 캡처는 Git에서 제외한 `Builds/QA`에 보관합니다. 개인 DB·얼굴·토큰·설치별 서버 설정은 백업 정리나 공개 파일 대상으로 취급하지 않습니다.
+<details>
+<summary><b>백업·캡처·개인 데이터 안내</b></summary>
+<br>
+
+- 이전 문서와 캡처는 로컬 통합 백업으로 옮겼습니다.
+- 새 검수 캡처는 Git에서 제외한 `Builds/QA`에 보관합니다.
+- 개인 DB·얼굴·토큰·설치별 서버 설정은 백업 정리나 공개 파일 대상으로 취급하지 않습니다.
+
+</details>
